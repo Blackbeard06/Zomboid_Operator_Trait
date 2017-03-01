@@ -1,0 +1,6 @@
+version=1
+id=788905261
+title=Operator Trait
+description=This trait gives you great realistic accuracy of a experience shooter. You can now enjoy using guns and being effective with them.
+tags=
+visibility=public

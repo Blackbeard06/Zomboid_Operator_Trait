@@ -1,0 +1,4 @@
+UI_EN = {
+UI_trait_Operator = "Operator",
+UI_trait_Operatordesc = "An expert with firearms",
+}

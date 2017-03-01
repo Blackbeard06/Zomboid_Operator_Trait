@@ -1,0 +1,4 @@
+name=Operator Trait 
+poster=OperatorTraitPoster.png
+description= Adds an Operator Trait that gives you Level 7 aiming and reloading abilities at the cost of 4 points.
+id=OperatorTrait
